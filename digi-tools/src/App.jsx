@@ -6,7 +6,7 @@ import Ratting from './Components/herocard/Ratting';
 import Steps from './Components/steps/Steps';
 import Premium from './Components/premium/Premium';
 import Workflow from './Components/workflow/Workflow';
-import Products from './Components/products/Products';
+import Products from './Components/Products/Products';
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
